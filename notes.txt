@@ -1,0 +1,9 @@
+Simple1
+- took 2,622 seconds to compile simple1_train.csv
+
+All_players
+- Use all players, only store x,y positions
+- took 1,485 seconds to compile all_players.csv
+
+
+- took 1,475 seconds to compile all_actions_all_players
