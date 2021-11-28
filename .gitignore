@@ -1,5 +1,8 @@
 # my own files
 *.csv
+*.pkl
+*.pickle
+/datasets
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
