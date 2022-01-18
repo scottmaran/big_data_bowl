@@ -4,6 +4,34 @@
 *.pickle
 /datasets
 
+/Viz.ipynb
+/actor_critic.ipynb
+/cnn_only.ipynb
+/create_datasets.ipynb
+/helper_functions.py
+/load_model.ipynb
+/model.ipynb
+/model_info.txt
+/models.py
+/qlearning_model.ipynb
+/sarsa_model.py
+
+/clean_dir/
+
+!/clean_dir/adj_model.pt                                                 
+!/clean_dir/compile_teammate_dataset.ipynb     
+!/clean_dir/create_input.ipynb                 
+!/clean_dir/train_pred_all_model.ipynb                      
+!/clean_dir/true_close_to_true.gif            
+!/clean_dir/true_close_to_true.mp4
+!/clean_dir/player_stats.ipynb                 
+!/clean_dir/true_far_to_true.gif
+!/clean_dir/prediction_close_to_true.gif       
+!/clean_dir/true_far_to_true.mp4
+!/clean_dir/prediction_close_to_true.mp4
+!/clean_dir/prediction_far_to_true.gif         
+!/clean_dir/viz_play.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
