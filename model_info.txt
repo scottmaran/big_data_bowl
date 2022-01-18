@@ -1,2 +1,0 @@
-cnn_model_1 -> base model, a bit wrong
-cnn_model_2 -> more powerful, only did one column each
