@@ -19,8 +19,9 @@
 /clean_dir/
 
 !/clean_dir/adj_model.pt                                                 
-!/clean_dir/compile_teammate_dataset.ipynb     
-!/clean_dir/create_input.ipynb                 
+!/clean_dir/compile_teammate_dataset.ipynb   
+# don't include create_input  
+#!/clean_dir/create_input.ipynb                 
 !/clean_dir/train_pred_all_model.ipynb                      
 !/clean_dir/true_close_to_true.gif            
 !/clean_dir/true_close_to_true.mp4
